@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\bin\Debug\netcoreapp2.1\Paw.deps.json
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\bin\Debug\netcoreapp2.1\Paw.runtimeconfig.json
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\bin\Debug\netcoreapp2.1\Paw.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\bin\Debug\netcoreapp2.1\Paw.dll
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\bin\Debug\netcoreapp2.1\Paw.pdb
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\obj\Debug\netcoreapp2.1\Paw.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\obj\Debug\netcoreapp2.1\Paw.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\obj\Debug\netcoreapp2.1\Paw.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\obj\Debug\netcoreapp2.1\Paw.dll
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\obj\Debug\netcoreapp2.1\Paw.pdb
+C:\Users\Kosta\source\repos\pOLIMORFISM01\Paw\obj\Debug\netcoreapp2.1\Paw.csprojAssemblyReference.cache
